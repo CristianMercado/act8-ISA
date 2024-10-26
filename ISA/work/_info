@@ -1,0 +1,131 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/Banco de Registros
+vALU
+!s110 1729898510
+!i10b 1
+!s100 U8]@]3S6eId@JK[J?6lE83
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IB^`U^5aL;R?5U9TB=9So42
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA
+w1729898449
+8C:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/ALU.v
+FC:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/ALU.v
+!i122 26
+L0 5 25
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1729898510.000000
+!s107 C:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/ALU.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@l@u
+vBancoRegistros
+!s110 1729813077
+!i10b 1
+!s100 @LN0Gfi2XL]BnihJQo<>O2
+R0
+IShN70A:H7f<;jOIQ:E`5D3
+R1
+R2
+w1729813065
+8C:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/BR.v
+FC:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/BR.v
+!i122 18
+L0 4 30
+R3
+r1
+!s85 0
+31
+!s108 1729813077.000000
+!s107 C:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/BR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/BR.v|
+!i113 1
+R4
+R5
+n@banco@registros
+vISA
+!s110 1729809415
+!i10b 1
+!s100 k4amAb3QG_nNc::X2U;AL2
+R0
+IN70HXRCAg3ci9DNSfa][E0
+R1
+R2
+w1729809401
+8C:\Users\crisa\OneDrive - Universidad de Guadalajara\Documents\Trabajos\Universidad\Noveno Semestre\Seminario de Arquitectura de Computadoras\ISA\Instruccion.v
+FC:\Users\crisa\OneDrive - Universidad de Guadalajara\Documents\Trabajos\Universidad\Noveno Semestre\Seminario de Arquitectura de Computadoras\ISA\Instruccion.v
+!i122 12
+L0 4 33
+R3
+r1
+!s85 0
+31
+!s108 1729809415.000000
+!s107 C:\Users\crisa\OneDrive - Universidad de Guadalajara\Documents\Trabajos\Universidad\Noveno Semestre\Seminario de Arquitectura de Computadoras\ISA\Instruccion.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\crisa\OneDrive - Universidad de Guadalajara\Documents\Trabajos\Universidad\Noveno Semestre\Seminario de Arquitectura de Computadoras\ISA\Instruccion.v|
+!i113 1
+R4
+R5
+n@i@s@a
+vISA_tb
+!s110 1729901577
+!i10b 1
+!s100 5SZ<U@DH;f`Wmla5DPghH2
+R0
+I]5:@`KV5j_C41B0hbC;gE3
+R1
+R2
+w1729901541
+8C:\Users\crisa\OneDrive - Universidad de Guadalajara\Documents\Trabajos\Universidad\Noveno Semestre\Seminario de Arquitectura de Computadoras\ISA\Instruccion_tb.v
+FC:\Users\crisa\OneDrive - Universidad de Guadalajara\Documents\Trabajos\Universidad\Noveno Semestre\Seminario de Arquitectura de Computadoras\ISA\Instruccion_tb.v
+!i122 30
+L0 3 36
+R3
+r1
+!s85 0
+31
+!s108 1729901577.000000
+!s107 C:\Users\crisa\OneDrive - Universidad de Guadalajara\Documents\Trabajos\Universidad\Noveno Semestre\Seminario de Arquitectura de Computadoras\ISA\Instruccion_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\crisa\OneDrive - Universidad de Guadalajara\Documents\Trabajos\Universidad\Noveno Semestre\Seminario de Arquitectura de Computadoras\ISA\Instruccion_tb.v|
+!i113 1
+R4
+R5
+n@i@s@a_tb
+vRAM
+!s110 1729898868
+!i10b 1
+!s100 @SRXPP8D@alDY7@RW^CnU3
+R0
+I:F=0bo8agk8?4dB1R?3>P2
+R1
+R2
+w1729898851
+8C:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/RAM.v
+FC:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/RAM.v
+!i122 29
+L0 2 25
+R3
+r1
+!s85 0
+31
+!s108 1729898868.000000
+!s107 C:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/crisa/OneDrive - Universidad de Guadalajara/Documents/Trabajos/Universidad/Noveno Semestre/Seminario de Arquitectura de Computadoras/ISA/RAM.v|
+!i113 1
+R4
+R5
+n@r@a@m
